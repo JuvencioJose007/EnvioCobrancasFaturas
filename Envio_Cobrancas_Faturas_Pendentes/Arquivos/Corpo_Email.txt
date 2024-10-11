@@ -1,0 +1,16 @@
+Prezado(a) {Cliente},
+
+Esperamos que esta mensagem o(a) encontre bem.
+Gostaríamos de informar que a sua fatura com os seguintes detalhes encontra-se em atraso:
+- ID da Fatura: {ID_Fatura}
+- Valor: R$ {Valor}
+- Data de Vencimento: {Data_Vencimento}
+
+Solicitamos que o pagamento seja realizado o mais breve possível para evitar interrupções nos serviços. Caso o pagamento já tenha sido efetuado, favor desconsiderar este aviso.
+
+Para maiores informações, entre em contato com nossa equipe de suporte.
+
+Agradecemos a sua atenção.
+
+
+Atenciosamente
